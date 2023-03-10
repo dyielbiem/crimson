@@ -1,0 +1,174 @@
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\bin\Debug\AppDevProj.exe.config
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\bin\Debug\AppDevProj.exe
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\bin\Debug\AppDevProj.pdb
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.csproj.AssemblyReference.cache
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.Form1.resources
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.Properties.Resources.resources
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.csproj.GenerateResource.cache
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.csproj.CoreCompileInputs.cache
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.exe
+C:\Users\Delos Santos\Desktop\Online Class\3rd Year 1st Sem\Application Development and Emerging Technologies\Program\AppDevProj\obj\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\AppDevProj.exe.config
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\AppDevProj.exe
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.Properties.Resources.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.csproj.GenerateResource.cache
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.csproj.CoreCompileInputs.cache
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.exe
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.LogInForm.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.MainForm.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.csproj.AssemblyReference.cache
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\Google.Protobuf.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\MySql.Data.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Buffers.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Memory.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\ZstdNet.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\Google.Protobuf.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\MySql.Data.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Buffers.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Memory.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\AppDevProj\obj\Debug\AppDevProj.AddItemTab.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\AppDevProj.exe.config
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\AppDevProj.exe
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\Google.Protobuf.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\MySql.Data.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Buffers.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Memory.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\ZstdNet.dll
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\Google.Protobuf.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\MySql.Data.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Buffers.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Memory.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.AddItemTab.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.LogInForm.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.MainForm.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.Properties.Resources.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.csproj.GenerateResource.cache
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.csproj.CoreCompileInputs.cache
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.exe
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.ItemTransaction.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.InventoryReports.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.LedgerEntries.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.History.resources
+C:\Users\Dyiel\Documents\3rdYear 1stSem\Applications Development and Emerging Technologies\AppDevProj\obj\Debug\AppDevProj.csproj.AssemblyReference.cache
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\AppDevProj.exe.config
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\AppDevProj.exe
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\Google.Protobuf.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\MySql.Data.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Buffers.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Memory.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\ZstdNet.dll
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\Google.Protobuf.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\MySql.Data.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Buffers.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Memory.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.csproj.AssemblyReference.cache
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.AddItemTab.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.History.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.InventoryReports.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.ItemTransaction.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.LedgerEntries.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.LogInForm.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.MainForm.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.Properties.Resources.resources
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.csproj.GenerateResource.cache
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.csproj.CoreCompileInputs.cache
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.exe
+C:\Users\Dyiel\Desktop\My Documents\3rdYear\Applications Development and Emerging Technologies\InventoryManagement_AppDev\obj\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\AppDevProj.exe.config
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\AppDevProj.exe
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\AppDevProj.pdb
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\Google.Protobuf.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\MySql.Data.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Buffers.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Memory.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\ZstdNet.dll
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\Google.Protobuf.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\MySql.Data.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Buffers.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Memory.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.csproj.AssemblyReference.cache
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.AddItemTab.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.History.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.InventoryReports.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.ItemTransaction.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.LedgerEntries.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.LogInForm.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.MainForm.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.Properties.Resources.resources
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.csproj.GenerateResource.cache
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.csproj.CoreCompileInputs.cache
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.exe
+C:\Users\Dyiel\Desktop\My Documents\Projects\InventoryManagement_AppDev\obj\Debug\AppDevProj.pdb
